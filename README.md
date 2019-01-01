@@ -13,3 +13,7 @@ Make sure to stay tuned for more progress! I'll be showing progress off in the V
 CURRENT ENGINE VERSION: 0.0.1 (NO VISIBLE PROGRESS)
 
 LINK TO TheChernoProject GAME ENGINE SERIES: https://www.youtube.com/watch?v=JxIZbV_XjAs&list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT
+
+CREDITS AND LIBRARIES USED:
+  spdlog
+    -https://github.com/gabime/spdlog
